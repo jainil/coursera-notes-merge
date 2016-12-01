@@ -19,3 +19,6 @@ To use it:
 
     $ coursera-notes-merge --help
 
+# Reference
+
+This command line tool is created with directions from [this blog post.](http://nvie.com/posts/writing-a-cli-in-python-in-under-60-seconds/)

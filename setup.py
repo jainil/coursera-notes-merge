@@ -3,7 +3,7 @@ Merges course notes downloaded from coursera-dl
 """
 from setuptools import find_packages, setup
 
-dependencies = ['click']
+dependencies = ['click', 'pypdf2']
 
 setup(
     name='coursera_notes_merge',
